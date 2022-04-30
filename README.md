@@ -7,5 +7,7 @@
   You can double-click the application "MitkWorkbench.exe" in the package to run the software. The application is located in this directory: Preoperative-planning-main\Preoperative-planning-main\Preoperative planning software\MitkWorkbench.exe.
 # Demo and instructions for use
   You can refer to the instructions "Instructions.docx" to use the software. It is located in this directory: Preoperative-planning-main\Preoperative-planning-main.
-# Others
-  This project is based on the Medical Imaging Interaction Toolkit (MITK). It is a free open-source software for the development of interactive medical image processing software.
+# License
+  No license is required to use the software. This project is based on the Medical Imaging Interaction Toolkit (MITK). It is a free open-source software for the development of interactive medical image processing software.
+# Articles and citations
+  Relevant articles have been published on eLife, and the DOI is **10.7554/eLife.75070**. If you use it, you should add references.
